@@ -2,4 +2,5 @@
 Arabic Text based misogyny detection
 <p>Explore misogyny using Deep learning techniques</p>
 
-[CPaper](https://sciforum.net/paper/view/10880/)
+[Paper](https://sciforum.net/paper/view/10880/)  --- AI-based Misogyny Detection from Arabic Levantine Twitter Tweets
+
